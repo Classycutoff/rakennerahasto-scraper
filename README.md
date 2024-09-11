@@ -2,6 +2,9 @@
 
 ## Kuinka ajaa tämä sovellus.
 
+0.0 Lataa tiedostot Githubista. Helpoin tapa on ladata *.zip tiedosto, missä on kaikki tiedostot. 
+0.1 ![File Downloads](images/File_Download.png)
+0.2 Unzippaa *.zip tiedosto, jolloin se aukeaa kansioksi missä on kaikki tarvittavat tiedostot.
 1.0 Tämän sovelluksen ajamiseen tarvitsee asentaa Python ohjelmointikieli. Sen pystyy lataamaan [Tästä linkistä](https://www.python.org/downloads/).
 2.0 Avaa terminaali tässä kansiossa.
    2.1 Mene File Explorerissa tähän kansioon.
