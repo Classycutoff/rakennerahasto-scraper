@@ -70,16 +70,16 @@ def scrape_data(links) -> pd.DataFrame:
     df_list = []
 
     with alive_bar(len(links)) as bar:
-        count = 0
+        # count = 0
         for link in links:
             data = extract_data(link)
             df = pd.DataFrame([data], columns=data.keys())
             df_list.append(df)
             time.sleep(0.2)
             bar()
-            count += 1
-            if count >= 10:
-                break
+            # count += 1
+            # if count >= 10:
+            #     break
 
     result_df = pd.concat(df_list, ignore_index=True)
 
