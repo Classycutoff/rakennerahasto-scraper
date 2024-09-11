@@ -16,7 +16,7 @@
 
    2.2 Täytä tekstiboksiin cmd  
 
-![File Explorer terminaalin laukaisu](images\file_explorer.png)  
+![File Explorer terminaalin laukaisu](images/file_explorer.png)  
 
    2.3 Tästä pitäisi aueta tämän näköinen ruutu:  
 
