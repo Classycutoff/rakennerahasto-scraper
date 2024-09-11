@@ -35,7 +35,7 @@ python main.py
 python main.py
 ```
 
-3.2 Ympäristön voi sammuttaa kun terminaalin kirjoittaa `deactivate`.
+3.2 Ympäristön voi sammuttaa kun terminaalin kirjoittaa `deactivate` tai vain sulkemalla terminaalin.
 
 Ohjelmassa kestää hetki, joten voit jättää sen ajamaan taustalle. Lopuksi tämä tekee CSV tiedoston data kansioon nimeltä `data/projektidata.csv`.
 
